@@ -1,0 +1,8 @@
+Origin: 0xRob0t24 Repo
+Label: Robot24 APT Repo
+Suite: stable
+Version: 1.0
+Codename: roothide
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: APT repository for roothide & Sileo

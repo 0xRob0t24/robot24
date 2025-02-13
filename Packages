@@ -1,0 +1,16 @@
+Package: com.robot24.searchengine
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: robot24
+Installed-Size: 1860
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0)
+Filename: ./debs/com.robot24.searchengine_1.0.0_iphoneos-arm64e.deb
+Size: 1547316
+MD5sum: 9b1164c1be1cda3cc895554169ed4e04
+SHA1: 0619cf410a2fb36ab98835d0778854e80712ba38
+SHA256: 5e30c8123418a476af577b55a551a3bfcc3252ece929af3a73b151c12998cfec
+Section: Utilities
+Description: FOFA search engine
+Author: robot24
+Name: SearchEngine
+
