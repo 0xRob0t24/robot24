@@ -14,3 +14,14 @@ Description: FOFA search engine
 Author: robot24
 Name: SearchEngine
 
+Package: ngrok
+Version: 3.3.5
+Architecture: iphoneos-arm64e
+Maintainer: robot24
+Filename: ./debs/ngrok_3.3.5_iphoneos-arm64e.deb
+Size: 6161140
+MD5sum: 4ae17d144b9c0ae0c874d963e425dafa
+SHA1: bc70ec21a07d1c4742aee9148637c811735b2424
+SHA256: 96e0be0bfc72fd6c522ce6c0f7caa64155dfb4a91129a0414666531c7a82cb25
+Description: ngrok for ios
+
