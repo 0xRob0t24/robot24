@@ -1,27 +1,11 @@
-Package: com.robot24.searchengine
-Version: 1.0.0
+Package: cloudflared
+Version: 2025
 Architecture: iphoneos-arm64e
 Maintainer: robot24
-Installed-Size: 1860
-Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0)
-Filename: ./debs/com.robot24.searchengine_1.0.0_iphoneos-arm64e.deb
-Size: 1547316
-MD5sum: 9b1164c1be1cda3cc895554169ed4e04
-SHA1: 0619cf410a2fb36ab98835d0778854e80712ba38
-SHA256: 5e30c8123418a476af577b55a551a3bfcc3252ece929af3a73b151c12998cfec
-Section: Utilities
-Description: FOFA search engine
-Author: robot24
-Name: SearchEngine
-
-Package: ngrok
-Version: 3.3.5
-Architecture: iphoneos-arm64e
-Maintainer: robot24
-Filename: ./debs/ngrok_3.3.5_iphoneos-arm64e.deb
-Size: 6161140
-MD5sum: 4ae17d144b9c0ae0c874d963e425dafa
-SHA1: bc70ec21a07d1c4742aee9148637c811735b2424
-SHA256: 96e0be0bfc72fd6c522ce6c0f7caa64155dfb4a91129a0414666531c7a82cb25
-Description: ngrok for ios
+Filename: ./debs/cloudflared_2025_iphoneos-arm64e.deb
+Size: 6256580
+MD5sum: 63c89e5cb413027702236dcd2a09625c
+SHA1: dfe9eeafd3e4a13f26206bb82a5b05d94f02ccb1
+SHA256: 16f6f108849ee716d90ee121f29ab39f4e49450f264cd9854daf44ee819adbf3
+Description: cloudflared for ios
 
