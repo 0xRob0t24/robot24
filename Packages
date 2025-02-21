@@ -256,23 +256,6 @@ Depiction: https://chariz.com/get/velvet-2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Name: Velvet 2
 
-Package: com.ramenrepo.limelight
-Version: 1.9.6
-Architecture: iphoneos-arm64e
-Maintainer: ty_ph <tylerpharand@gmail.com>
-Pre-Depends: rootless-compat(>= 0.1)
-Filename: ./debs/com.ramenrepo.limelight_1.9.6_iphoneos-arm64e.deb
-Size: 61766544
-MD5sum: 91a2bd183d416e9994c2aa3b7dfe2a98
-SHA1: b8e66987b710b262b39adb391f29ac2bd58b4675
-SHA256: 36b0f93851b464183d46f831b67cef4d2eeb40f4571bfb4e5a65faf86ff37bcf
-Section: Themes
-Homepage: ramenrepo.github.io
-Description: Colorful glyphs for anemone
-Author: ty_ph <tylerpharand@gmail.com>
-Depiction: https://ramenrepo.github.io/depictions/?p=com.ramenrepo.limelight
-Name: Limelight
-
 Package: com.rowandesign.morandi
 Version: 1.1.0
 Architecture: iphoneos-arm64e
