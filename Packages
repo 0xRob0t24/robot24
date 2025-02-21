@@ -177,6 +177,23 @@ Description: A theme with beautiful icons!
 Author: Cyrex
 Name: Epiphany
 
+Package: com.gamegod.igg.rootless
+Version: 0.4.3
+Architecture: iphoneos-arm64e
+Maintainer: iGameGod
+Installed-Size: 200920
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Filename: ./debs/com.gamegod.igg.rootless_0.4.3_iphoneos-arm64e.deb
+Size: 143414588
+MD5sum: 646cb0c6274d08e2aea2db4bf8c3272b
+SHA1: 4afb11480266fa8a413adf64953fe96e416295c8
+SHA256: d2c25024e3bea4ecfc82cc8ed5d2b871b5cb8735d7be54522b2033119e28b014
+Section: Utilities
+Description: Be the god of your games!
+Author: iGameGod
+Name: iGameGod Rootless
+
 Package: com.kingpuffdaddi.wifiqr
 Version: 1.1.1
 Architecture: iphoneos-arm64e
@@ -238,6 +255,23 @@ Author: NoisyFlake <support@noisyflake.com>
 Depiction: https://chariz.com/get/velvet-2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Name: Velvet 2
+
+Package: com.ramenrepo.limelight
+Version: 1.9.6
+Architecture: iphoneos-arm64e
+Maintainer: ty_ph <tylerpharand@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.ramenrepo.limelight_1.9.6_iphoneos-arm64e.deb
+Size: 61766544
+MD5sum: 91a2bd183d416e9994c2aa3b7dfe2a98
+SHA1: b8e66987b710b262b39adb391f29ac2bd58b4675
+SHA256: 36b0f93851b464183d46f831b67cef4d2eeb40f4571bfb4e5a65faf86ff37bcf
+Section: Themes
+Homepage: ramenrepo.github.io
+Description: Colorful glyphs for anemone
+Author: ty_ph <tylerpharand@gmail.com>
+Depiction: https://ramenrepo.github.io/depictions/?p=com.ramenrepo.limelight
+Name: Limelight
 
 Package: com.rowandesign.morandi
 Version: 1.1.0
