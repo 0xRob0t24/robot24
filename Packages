@@ -1,3 +1,102 @@
+Package: apt.cydiakk.Jade-rootless
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Installed-Size: 1275
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Conflicts: com.dao.jade
+Filename: ./debs/apt.cydiakk.jade-rootless_1.0.1_iphoneos-arm64e.deb
+Size: 357612
+MD5sum: 1a0328685e837c3e52b05b9bc6df3783
+SHA1: 62aa7891db6b97a4ec19ac7c28978abf654c2905
+SHA256: 458c517a84e2c949f9d1ee170465cfe714d111fce132ed08af283f1c28c06282
+Section: 插件列表
+Description: Prysm控制中心自定义。
+Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Jade自定义控制中心
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.a-font-rootless
+Version: 1.10
+Architecture: iphoneos-arm64e
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Installed-Size: 2444
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: byg.iosios.net.afont.cn.rl,com.hk.afont.cn.rl
+Filename: ./debs/apt.cydiakk.a-font-rootless_1.10_iphoneos-arm64e.deb
+Size: 1334054
+MD5sum: ddb190d7ba00327fba261896faa65201
+SHA1: c1edc80c5ebb186cee6f675d05a23557a3229443
+SHA256: 0a432f1b8dedf7a5ae3d9cd290d709412cb5fb81be2b24b7500dfb67ec2ce1c6
+Section: 插件列表
+Description: 字体更换工具，简单好用的字体更换插件，适合小白使用，简单！已汉化！
+Author: Baw Appie
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: A-Font字体更换工具
+Sponsor: Cydiakk中文源™ <https://apt.cydiakk.com/>
+
+Package: apt.cydiakk.alpine-rootless
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Installed-Size: 1108
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/apt.cydiakk.alpine-rootless_1.3_iphoneos-arm64e.deb
+Size: 652562
+MD5sum: 98a97acff974a1102b5c612c9f601d55
+SHA1: 732a9453aee7e74867067de9d59253dbb3e72414
+SHA256: f71238cc71cd21d5e028c5ea24bc545e30673c45f5410e6fe50aff985d8ea23a
+Section: 插件列表
+Description: tvOS alerts for iOS替换所有弹窗为精美的TVOS风格，效果请看插件截图！已汉化！
+Author: MTAC
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Alpine精美TVOS弹窗
+Sponsor: Cydiakk中文源™ <https://apt.cydiakk.com/>
+
+Package: apt.cydiakk.carbridge13-rootless
+Version: 2.0.11k
+Architecture: iphoneos-arm64e
+Maintainer: MainRepo
+Installed-Size: 7324
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/apt.cydiakk.carbridge13-rootless_2.0.11k_iphoneos-arm64e.deb
+Size: 1066948
+MD5sum: 0b01e43078c76531706ca65ac77e3174
+SHA1: 1be9f40da0d478790c09e5e0449ff2a5ee4b2af1
+SHA256: 398381b288e308025425f3e03de6822c12d349cfc10a30e6d1d7afd762d760de
+Section: 插件列表
+Description: CarPlay功能扩展，汽车互联必备
+Author: leftyfl1p <carbridge@havoc.app>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: CarBridge 汽车互联-Rootless
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.goodwifi-rootless
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: julioverne
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.goodwifi
+Filename: ./debs/apt.cydiakk.goodwifi-rootless_1.2_iphoneos-arm64e.deb
+Size: 73394
+MD5sum: 4e96004d76102a727fe3bb9b5cb5067d
+SHA1: 4e4554694ed012e6eed1dcd92e9b8a81c10d4a59
+SHA256: 2bb9bc51ea3d452b840c765c061ae3ddc56a966fbd1ddfcab880eb7a8bc8e4f3
+Section: 工具列表
+Description: WiFi 无线信息显示 密码显示
+Author: julioverne
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: GoodWiFi无线WiFi增强
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
 Package: cloudflared
 Version: 2025
 Architecture: iphoneos-arm64e
@@ -8,4 +107,394 @@ MD5sum: 63c89e5cb413027702236dcd2a09625c
 SHA1: dfe9eeafd3e4a13f26206bb82a5b05d94f02ccb1
 SHA256: 16f6f108849ee716d90ee121f29ab39f4e49450f264cd9854daf44ee819adbf3
 Description: cloudflared for ios
+
+Package: co.shoyu.miso
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: ty_ios <tylerpharand@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/co.shoyu.miso_1.0_iphoneos-arm64e.deb
+Size: 4093710
+MD5sum: a922cd5e50f4edc000c223d4a4f0fd46
+SHA1: c905f65535b30fb05261cf94394d8c1826857f57
+SHA256: 6c83686063d05215703dba2eef198a8a6bd788a797bfb18ae770e3bb53c1e9c1
+Section: Themes
+Homepage: ramenrepo.github.io
+Description: Cartoon glyphs!
+Author: ty_ios <tylerpharand@gmail.com>
+Depiction: https://repo.packix.com/package/co.shoyu.miso/
+Name: Miso
+
+Package: com.bousrih.violaWhite
+Version: 1.8
+Architecture: iphoneos-arm64e
+Maintainer: bossgfx <bousrih20@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.bousrih.violawhite_1.8_iphoneos-arm64e.deb
+Size: 29978712
+MD5sum: 97dee5081948d9cc04caaed8e30f599e
+SHA1: 08110616e0b81bd5593812e96edf02ab8566d636
+SHA256: 7d35df1bb154dba575e1c682ec2b31fc6e6cb054f424426edc34848e215598f8
+Section: Themes
+Description: The simple, modern & beautiful White version of Viola!
+Author: bossgfx <bousrih20@gmail.com>
+Name: Viola White
+
+Package: com.conradkramer.open
+Version: 1.1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 194
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.conradkramer.open_1.1.1-1_iphoneos-arm64e.deb
+Size: 5872
+MD5sum: f34486b868887103a244ddf0f89d40e3
+SHA1: f3c2ed264876684b9f9a5fccdeaeaf3d0973aa55
+SHA256: 35455a5244c05f48f25ba658431f9bcb408199266404c31dde3d5d7fb616a618
+Section: System
+Description: launch apps from the command-line
+Tag: purpose::console, role::hacker
+Author: 123 <happenlongtime@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=openData
+Dev: happenlongtime
+Name: Open
+Sponsor: thebigboss.org <http://thebigboss.org>
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=openData
+
+Package: com.cyrex.epiphany
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Cyrex
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.cyrex.epiphany_1.0.1_iphoneos-arm64e.deb
+Size: 1118332
+MD5sum: e157a16cf00216112b6e2dfa52d6645c
+SHA1: 5d3c6acb21f4f6d88ae3a07154542b7f9dc461e3
+SHA256: 935509f2f6f1cd7ef6597f8a3ada79a73c1588f961dcaf410dcf57ba8045a3f6
+Section: Themes
+Description: A theme with beautiful icons!
+Author: Cyrex
+Name: Epiphany
+
+Package: com.gamegod.igg.rootless
+Version: 0.4.3
+Architecture: iphoneos-arm64e
+Maintainer: iGameGod
+Installed-Size: 200920
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Filename: ./debs/com.gamegod.igg.rootless_0.4.3_iphoneos-arm64e.deb
+Size: 143414588
+MD5sum: 646cb0c6274d08e2aea2db4bf8c3272b
+SHA1: 4afb11480266fa8a413adf64953fe96e416295c8
+SHA256: d2c25024e3bea4ecfc82cc8ed5d2b871b5cb8735d7be54522b2033119e28b014
+Section: Utilities
+Description: Be the god of your games!
+Author: iGameGod
+Name: iGameGod Rootless
+
+Package: com.kingpuffdaddi.wifiqr
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 388
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.kingpuffdaddi.wifiqr_1.1.1_iphoneos-arm64e.deb
+Size: 33828
+MD5sum: a7748faa5c96e608967143d68b249563
+SHA1: ba5567a9c7059950a264919fccb1c271b12974ef
+SHA256: d6841e218bc955465bd82e7b3beec89f61bd0e62cdcbb87f128cefa38f099e61
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifiqrDp
+Description: Generate a QR code for WiFi networks directly from the settings
+Tag: purpose::extension
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifiqrDp
+Dev: kingpuffdaddi
+Name: WiFiQR
+
+Package: com.nightwind.searchdots
+Version: 1.1.5
+Architecture: iphoneos-arm64e
+Maintainer: Nightwind <nightwinddev@gmail.com>
+Installed-Size: 506
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.nightwind.searchdots_1.1.5_iphoneos-arm64e.deb
+Size: 119600
+MD5sum: 7d29313faa96d5297d16d3e4ee3906f0
+SHA1: 6a58b7c6de81f0e3562e86ff4b9f13c0efd586d8
+SHA256: a70c46ba7b9ebc110b2f52e949fb34edafd226b06e215579945df8a236505b99
+Section: Tweaks
+Description: Search Pill Ported from iOS 16
+Tag: compatible_min::ios14.0
+Author: Nightwind <nightwinddev@gmail.com>
+Depiction: https://chariz.com/get/searchdots
+Icon: https://img.chariz.cloud/icon/searchdots/icon@3x.png
+Name: SearchDots
+
+Package: com.noisyflake.velvet2
+Version: 2.1.2-1
+Architecture: iphoneos-arm64e
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 635
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debs/com.noisyflake.velvet2_2.1.2-1_iphoneos-arm64e.deb
+Size: 125912
+MD5sum: bcd6d3e32423bc6c18ebb5c5b4a8b2db
+SHA1: 30dc4780f933c3c46bcc53ed5ec3c5f892ce5da7
+SHA256: 5be3cca44f2aec1bf1b7e530fbc0ee790b213fc260fad8d6e4e29a0171c3285a
+Section: Tweaks
+Description: A fully customizable notification experience
+Tag: compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://chariz.com/get/velvet-2
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+Name: Velvet 2
+
+Package: com.ramenrepo.limelight
+Version: 1.9.6
+Architecture: iphoneos-arm64e
+Maintainer: ty_ph <tylerpharand@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.ramenrepo.limelight_1.9.6_iphoneos-arm64e.deb
+Size: 61766544
+MD5sum: 91a2bd183d416e9994c2aa3b7dfe2a98
+SHA1: b8e66987b710b262b39adb391f29ac2bd58b4675
+SHA256: 36b0f93851b464183d46f831b67cef4d2eeb40f4571bfb4e5a65faf86ff37bcf
+Section: Themes
+Homepage: ramenrepo.github.io
+Description: Colorful glyphs for anemone
+Author: ty_ph <tylerpharand@gmail.com>
+Depiction: https://ramenrepo.github.io/depictions/?p=com.ramenrepo.limelight
+Name: Limelight
+
+Package: com.rowandesign.morandi
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Rowandesign
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.rowandesign.morandi_1.1.0_iphoneos-arm64e.deb
+Size: 11749182
+MD5sum: fe12729cf4e0ffe0be663660e5801910
+SHA1: df2537ef7b28f9383f1f4f3c3f171d6a11654ca2
+SHA256: 2b70b2298b0fe0bfbe6e3e7a7e59b6b85740e4c63b536ba0c255fa930f89079e
+Section: Themes
+Description: Morandi - Pay tribute to my favorite painter
+Author: Rowandesign
+Name: Morandi
+
+Package: com.stevsarm.taffy
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Steve Sarmiento <steve22sarmiento@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.stevsarm.taffy_1.0_iphoneos-arm64e.deb
+Size: 45557178
+MD5sum: fa931bf28246a3e8959ba225b40a91d4
+SHA1: 072628f7f5dbb3baeb2b24e98e4bf45d3973f216
+SHA256: f142f1a8293dac4aca498afe0e3ab593e79851afc17310824b10c46c5770a3a2
+Section: Themes
+Description: salmon sal the taffy pal
+Author: Steve Sarmiento <steve22sarmiento@gmail.com>
+Name: Taffy
+
+Package: com.thenatis.lollipop
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: Thenatis
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.thenatis.lollipop_1.3_iphoneos-arm64e.deb
+Size: 11525674
+MD5sum: 1b1b89fae23f8a5096c4482116fc41ee
+SHA1: f02415d6a39d0a03f500f119505fb667f348b85d
+SHA256: 938d4e7147f576709c429e1e377d97fa199a8d450730cb821ac64448b48145cf
+Section: Themes
+Description: A new beautiful theme!
+Author: Thenatis
+Name: Lollipop
+
+Package: com.thenatis.vivacity
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: Thenatis
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/com.thenatis.vivacity_2.0_iphoneos-arm64e.deb
+Size: 10422650
+MD5sum: ca76c5a5b204c59337bdd0f0cc346516
+SHA1: b3b40cbabc38d95ee2d5c319a4631623e3639908
+SHA256: a8170a450e2dd32590dacd8bfb174492f97ed8204888d457b59536919f5f0d98
+Section: Themes
+Description: A Vibrant Theme to Light up Your Device!
+Author: Thenatis
+Name: Vivacity
+
+Package: com.xandesign.FelicityPro
+Version: 4.1
+Architecture: iphoneos-arm64e
+Maintainer: XerusDesign <unixdesignios@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Replaces: com.xandesign.FelicityPro (3.3)
+Filename: ./debs/com.xandesign.felicitypro_4.1_iphoneos-arm64e.deb
+Size: 46129180
+MD5sum: df0ba3048b52e06e6da504f3378a3da9
+SHA1: 4e285f31b01871270309539d49643cfe8f214bce
+SHA256: d9f060c04c661ef0a9e463ed683980a912bb9092b3f73c08b488cdab70aaf466
+Section: Themes
+Homepage: https://twitter.com/xerusdesign
+Description: a more colorful & detailed look for iOS
+Author: XerusDesign <unixdesignios@gmail.com>
+Name: Felicity Pro
+
+Package: io.github.worksbybbs.compacticonswhite-rootless
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Alo <bbscydia@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>=11.0)
+Filename: ./debs/io.github.worksbybbs.compacticonswhite-rootless_1.1_iphoneos-arm64e.deb
+Size: 4181652
+MD5sum: df6af93ab04aa0096085deb323726ed9
+SHA1: 3ad615febf2e904ebc5314959119e9cbb32ac3f7
+SHA256: cd07a76bff40f502d4803bb8216804ad83ab4d68b86390631e78ae6c1278728e
+Section: Themes (Icons)
+Homepage: https://alo.works/
+Description: Compacticons White for iOS
+Author: Alo <bbscydia@gmail.com>
+Depiction: https://alo.works/depiction/web/io.github.worksbybbs.compacticonswhite-rootless.html
+Icon: https://alo.works/assets/io.github.worksbybbs.compacticonswhite-rootless/icon.png
+Moderndepiction: https://alo.works/depiction/native/io.github.worksbybbs.compacticonswhite-rootless.json
+Name: Compacticons White for iOS
+Sileodepiction: https://alo.works/depiction/native/io.github.worksbybbs.compacticonswhite-rootless.json
+Tags: compatible_min::ios11.0, compatible_max::ios16.6.1
+
+Package: io.github.worksbybbs.compacticonswhite-rootless
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Alo <bbscydia@gmail.com>
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>=11.0)
+Filename: ./debs/io.github.worksbybbs.compacticonswhite-rootless_1.1_iphoneos-arm64e-1.deb
+Size: 4181674
+MD5sum: 433b4905e18c16e430c5269ed3e3ab82
+SHA1: d20160d4991337152944c217179ecc6d3d8f844b
+SHA256: c43ce7e5437ee7da7336c2c636775ec1e0ab24bc220a6f91c1f3e9b27099feac
+Section: Themes (Icons)
+Homepage: https://alo.works/
+Description: Compacticons White for iOS
+Author: Alo <bbscydia@gmail.com>
+Depiction: https://alo.works/depiction/web/io.github.worksbybbs.compacticonswhite-rootless.html
+Icon: https://alo.works/assets/io.github.worksbybbs.compacticonswhite-rootless/icon.png
+Moderndepiction: https://alo.works/depiction/native/io.github.worksbybbs.compacticonswhite-rootless.json
+Name: Compacticons White for iOS
+Sileodepiction: https://alo.works/depiction/native/io.github.worksbybbs.compacticonswhite-rootless.json
+Tags: compatible_min::ios11.0, compatible_max::ios16.6.1
+
+Package: jp.dcsyhi.zetsu
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 11004
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/jp.dcsyhi.zetsu_1.5_iphoneos-arm64e.deb
+Size: 566
+MD5sum: d3829d1f73340b742f24eea094f5944b
+SHA1: 85e24b3de42f73f926e7a3e72c1c08cf45450260
+SHA256: 2a81ccd5a75d4d303ec1b7947234684976cd9e5d0cfaa2eb702815a642783c0b
+Section: Tweaks
+Description: Multitasking on iOS15 - iOS16.
+Tag: compatible_min::ios15.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: https://chariz.com/get/zetsu
+Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
+Name: Zetsu
+
+Package: jp.dcsyhi.zetsu
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 11004
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/jp.dcsyhi.zetsu_1.5_iphoneos-arm64e-1.deb
+Size: 19754296
+MD5sum: 6103f4684fcdecc7faa8621ed831b9a3
+SHA1: d52c69ced222e2850c6a7ed06c5b407e107fb614
+SHA256: 64d5f8e9f5dd3e1c6009e021b1f8e51080793d6633421d0dac6772314e901dfc
+Section: Tweaks
+Description: Multitasking on iOS15 - iOS16.
+Tag: compatible_min::ios15.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: https://chariz.com/get/zetsu
+Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
+Name: Zetsu
+
+Package: lol.itsnebula.modernos
+Version: 1.2-1
+Architecture: iphoneos-arm64e
+Maintainer: Nebula
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: ./debs/lol.itsnebula.modernos_1.2-1_iphoneos-arm64e.deb
+Size: 5511020
+MD5sum: f0462f444478e202e1d648e3fcba9fbd
+SHA1: de374fb0cdd33c5440512e75426e897788720c14
+SHA256: ffbc6d85f44e9ef94c0fb07cd005bd665812c2d7196057442c4525d440b86cfa
+Section: Themes
+Description: Colorful, happy, modern.
+Author: Nebula
+Name: modernOS
+
+Package: mterminal
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: D.F (MTAC) <mtac@mtac.app>
+Installed-Size: 272
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
+Filename: ./debs/mterminal_1.6_iphoneos-arm64e-4.deb
+Size: 99890
+MD5sum: 74b58c8e80d682f7627cadb015644365
+SHA1: cf0c24715456ffb90b4dddd945f8ff58eb5d73cb
+SHA256: 3bf57e4cb44e83b13bfe975eb46d0945fb70fb20df95108f4a0621ff9101dc3c
+Section: Utilities
+Description: A MobileTerminal fork
+Author: lordscotland <admin@officialscheduler.com>
+Icon: https://mtac.app/repo/assets/com.officialscheduler.mterminal/icon-rounded.png
+Name: MTerminal
+Sileodepiction: https://mtac.app/repo/depiction/native/com.officialscheduler.mterminal.json
+
+Package: palera1n
+Version: 2.0.0~beta.8
+Architecture: iphoneos-arm64e
+Maintainer: palera1n team
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: usbmuxd
+Filename: ./debs/palera1n_iphoneos-arm64e.deb
+Size: 6904424
+MD5sum: 7a1a806639a2b1b1e2f403d48aa29e55
+SHA1: 8af054c489634c2be0ca60f99da56802346b5590
+SHA256: dfbf8a3faf849f867b00495c906636f6ed688c86c33dba42191a2fbcac58f868
+Section: Utilities
+Priority: optional
+Homepage: https://palera.in
+Description: iOS 15.0-16.5.1 semi-tethered checkm8 jailbreak
+ palera1n is an iOS/iPadOS 15.0-16.5.1 semi tethered jailbreak
+ based on the checkm8 exploit.
+ .
+ palera1n is able to jailbreak the device in fakefs-rootful mode,
+ where / is writable, as well as rootless mode, where / cannot be
+ written to.
+ .
+ IMPORTANT: This does NOT make palera1n untethered or allow you to
+ jailbreak your current device without a computer. It just allows
+ you to jailbreak another iDevice using this device, given you have
+ an appropriate cable. Also, the success rate is likely to be bad.
+Author: palera1n team
+Name: palera1n
 
