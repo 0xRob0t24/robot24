@@ -48,6 +48,17 @@ Icon: https://mtac.app/repo/assets/com.officialscheduler.mterminal/icon-rounded.
 Name: MTerminal
 Sileodepiction: https://mtac.app/repo/depiction/native/com.officialscheduler.mterminal.json
 
+Package: node
+Version: 18.20.7
+Architecture: iphoneos-arm64e
+Maintainer: robot24
+Filename: ./debs/node_18.20.7_iphoneos-arm64e.deb
+Size: 24702772
+MD5sum: 7953a8d11d43e5767c2b1585966422bd
+SHA1: 38ceba313f7f59224ae5ed6f3c5f97263f176464
+SHA256: 739a5157fe3fbff23c411aa06ca9b6c5e79d7ad5c870a034bd60dbecdb5ebf64
+Description: nodejs ios roothide
+
 Package: palera1n
 Version: 2.0.0~beta.8
 Architecture: iphoneos-arm64e
