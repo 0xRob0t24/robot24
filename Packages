@@ -1,3 +1,14 @@
+Package: Yarn-1.22.21
+Version: 1.22.21
+Architecture: iphoneos-arm64e
+Maintainer: robot24
+Filename: ./debs/yarn-1.22.21_1.22.21_iphoneos-arm64e.deb
+Size: 868620
+MD5sum: 63a404adbf5cf246dfaa880dac99391f
+SHA1: 4d745006726e16203415ce5c7e70e0d141bcfea0
+SHA256: 8ba14c3625c68260741adf16fad0029bc74fce53e46e615d7d142c856ce38692
+Description: yarn package manager
+
 Package: cloudflared
 Version: 2025
 Architecture: iphoneos-arm64e
@@ -33,14 +44,14 @@ Package: mterminal
 Version: 1.6
 Architecture: iphoneos-arm64e
 Maintainer: D.F (MTAC) <mtac@mtac.app>
-Installed-Size: 272
-Pre-Depends: rootless-compat(>= 0.1)
+Installed-Size: 15044
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
-Filename: ./debs/mterminal_1.6_iphoneos-arm64e-4.deb
-Size: 99890
-MD5sum: 74b58c8e80d682f7627cadb015644365
-SHA1: cf0c24715456ffb90b4dddd945f8ff58eb5d73cb
-SHA256: 3bf57e4cb44e83b13bfe975eb46d0945fb70fb20df95108f4a0621ff9101dc3c
+Filename: ./debs/mterminal_1.6_iphoneos-arm64e.deb
+Size: 12494520
+MD5sum: aefe2c9b41923076d5683ea70880981c
+SHA1: 52283c486add5ce06f111e40eddcb4cce8dc6b55
+SHA256: 24169f58e37f8d4cfbebed6e2215db77593935b14a1be0d2bb233e3f36976752
 Section: Utilities
 Description: A MobileTerminal fork
 Author: lordscotland <admin@officialscheduler.com>
