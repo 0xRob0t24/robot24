@@ -36,17 +36,17 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Developer",
-                    "text": "xmrig Team"
+                    "text": "xmrig Team, built for iOS by robot24"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "2.3"
+                    "text": "6.21.0"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS"
+                    "text": "iOS12.x to 16.x"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -71,7 +71,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "#### Version 2.3\n\nAdd support for more algorithms"
+                    "markdown": "#### Version 6.21.0\n\nAdd support for more algorithms"
                 }
             ],
             "class": "DepictionStackView"
