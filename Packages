@@ -99,3 +99,28 @@ Description: iOS 15.0-16.5.1 semi-tethered checkm8 jailbreak
 Author: palera1n team
 Name: palera1n
 
+Package: xmrig
+Version: 6.21.0
+Architecture: iphoneos-arm64e
+Maintainer: robot24
+Filename: ./debs/xmrig_6.21.0_iphoneos-arm64e.deb
+Size: 1728752
+MD5sum: 2ca78774e206b771f1005825c5bb3ce3
+SHA1: 510262ab51c1ebe68d813df3b31d2692df319d2a
+SHA256: dfa642f765841f36122a4967cc25e7edf3fc7e22b0d2dcce27d3067c5646887d
+Section: Utilities
+Description: xmrig miner
+Icon: https://raw.githubusercontent.com/0xRob0t24/robot24/main/assets/xmrig/banner.png
+Sileodepiction: https://raw.githubusercontent.com/0xRob0t24/robot24/main/assets/xmrig/xmrig.json
+
+Package: zic
+Version: 2025a-2-g7063d08-dirty
+Architecture: iphoneos-arm64e
+Maintainer: robot24
+Filename: ./debs/zic_2025a-2-g7063d08-dirty_iphoneos-arm64e.deb
+Size: 23340
+MD5sum: c6f29333b06e250ac88918fa2d8ec5e2
+SHA1: 9d176c26d0c21795cbcf971e1376b37f9f2d8c19
+SHA256: e68f4d0e50d907092cff0adb335973e4f8d3451cf463b60d6ac97e64484a6100
+Description: zic (zone information compiler) เป็นเครื่องมือที่ใช้สำหรับคอมไพล์ไฟล์โซนเวลา (timezone) จาก source files ในรูปแบบ tzdata (*.zi) ไปเป็น binary format
+
