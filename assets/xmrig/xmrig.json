@@ -37,8 +37,7 @@
                     "class": "DepictionTableTextView",
                     "title": "Developer",
                     "text": "xmrig Team, built for iOS by robot24",
-                    "maxLines": 3,
-                    "useMultiline": true
+                    "itemSize": "{320, 50}"
                 },
                 {
                     "class": "DepictionTableTextView",
