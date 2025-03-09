@@ -36,7 +36,8 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Developer",
-                    "text": "xmrig Team, built for iOS by robot24"
+                    "text": "xmrig Team, built for iOS by robot24",
+                    "maxLines": 2
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -59,7 +60,7 @@
                 {
                     "class": "DepictionTableButtonView",
                     "title": "View Source Code",
-                    "action": "https://github.com/0xRob0t24/robot24",
+                    "action": "https://github.com/xmrig/xmrig",
                     "openExternal": "true",
                     "tintColor": "#424949"
                 }
