@@ -36,9 +36,15 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Developer",
-                    "text": "xmrig Team, built for iOS by robot24",
-                    "textOverflow": "ellipsis" 
+                    "text": "xmrig Team",
+                    "useMultiline": true                 
                 },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "",
+                    "text": "built for iOS by robot24",
+                    "useMultiline": true
+                  },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
