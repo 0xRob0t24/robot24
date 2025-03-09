@@ -1,0 +1,64 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://github.com/0xRob0t24/robot24/assets/xmrig/banner.png",
+    "tintColor": "#424949",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "url": "https://github.com/0xRob0t24/robot24/assets/xmrig/run1.png",
+                            "accessibilityText": "Screenshot 1"
+                        },
+                        {
+                            "url": "https://github.com/0xRob0t24/robot24/assets/xmrig/run2.png",
+                            "accessibilityText": "Screenshot 2"
+                        }
+                    ],
+                    "itemCornerRadius": 8,
+                    "itemSize": "{160, 300}"
+                },
+                {
+                    "markdown": "A powerful cryptocurrency miner",
+                    "useSpacing": "true",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "xmrig Team"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "2.3"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "ios"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Cryptocurrency"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
+}
