@@ -3,12 +3,12 @@ Version: 1.22.21
 Architecture: iphoneos-arm64e
 Maintainer: robot24
 Filename: ./debs/yarn-1.22.21_1.22.21_iphoneos-arm64e.deb
-Size: 868456
-MD5sum: a22e280928b7108bba3dc33f5df573b2
-SHA1: 51bcb7d8029828f931ee0cf9fb8e625b7cff9b31
-SHA256: 3c1f0617ba606e3736f8ae743ccae72bb96acd0a9f6d02520c0d97473d21ef9d
+Size: 868884
+MD5sum: c0fc9c80ad82b80ebc1b497e92b6592c
+SHA1: 376af0536b4c18d4fbfd16b79ab2b77c9c386c53
+SHA256: c0a2e053c46d7ea245b3836464d9bfabe5aa97f72583a37009f48e4d7644a57e
 Description: yarn package manager
-Icon: Icon: https://raw.githubusercontent.com/0xRob0t24/robot24/main/assets/yarn/yarn.png
+Icon: https://raw.githubusercontent.com/0xRob0t24/robot24/main/assets/yarn/yarn.png
 
 Package: cloudflared
 Version: 2025
