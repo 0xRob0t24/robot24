@@ -37,7 +37,7 @@
                     "class": "DepictionTableTextView",
                     "title": "Developer",
                     "text": "xmrig Team, built for iOS by robot24",
-                    "itemSize": "{320, 50}"
+                    "textOverflow": "ellipsis" 
                 },
                 {
                     "class": "DepictionTableTextView",
