@@ -48,7 +48,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "6.21.0"
+                    "text": "6.20.0"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -78,7 +78,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "#### Version 6.21.0\n\nAdd support for more algorithms"
+                    "markdown": "#### Version 6.20.0\n\nAdd support for more algorithms"
                 }
             ],
             "class": "DepictionStackView"
