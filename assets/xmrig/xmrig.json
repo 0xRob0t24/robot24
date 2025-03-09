@@ -46,7 +46,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "ios"
+                    "text": "iOS"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -55,6 +55,23 @@
                 },
                 {
                     "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "View Source Code",
+                    "action": "https://github.com/0xRob0t24/robot24",
+                    "openExternal": "true",
+                    "tintColor": "#424949"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "#### Version 2.3\n\nAdd support for more algorithms"
                 }
             ],
             "class": "DepictionStackView"
@@ -62,4 +79,3 @@
     ],
     "class": "DepictionTabView"
 }
-
