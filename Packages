@@ -3,11 +3,12 @@ Version: 1.22.21
 Architecture: iphoneos-arm64e
 Maintainer: robot24
 Filename: ./debs/yarn-1.22.21_1.22.21_iphoneos-arm64e.deb
-Size: 868620
-MD5sum: 63a404adbf5cf246dfaa880dac99391f
-SHA1: 4d745006726e16203415ce5c7e70e0d141bcfea0
-SHA256: 8ba14c3625c68260741adf16fad0029bc74fce53e46e615d7d142c856ce38692
+Size: 868456
+MD5sum: a22e280928b7108bba3dc33f5df573b2
+SHA1: 51bcb7d8029828f931ee0cf9fb8e625b7cff9b31
+SHA256: 3c1f0617ba606e3736f8ae743ccae72bb96acd0a9f6d02520c0d97473d21ef9d
 Description: yarn package manager
+Icon: Icon: https://raw.githubusercontent.com/0xRob0t24/robot24/main/assets/yarn/yarn.png
 
 Package: cloudflared
 Version: 2025
@@ -64,11 +65,12 @@ Version: 18.20.7
 Architecture: iphoneos-arm64e
 Maintainer: robot24
 Filename: ./debs/node_18.20.7_iphoneos-arm64e.deb
-Size: 24702772
-MD5sum: 7953a8d11d43e5767c2b1585966422bd
-SHA1: 38ceba313f7f59224ae5ed6f3c5f97263f176464
-SHA256: 739a5157fe3fbff23c411aa06ca9b6c5e79d7ad5c870a034bd60dbecdb5ebf64
+Size: 24961476
+MD5sum: b2ccdf028fd74b94d6b400af32261606
+SHA1: 7f4f2ccc1a39395042247aea4644720e60fa7abc
+SHA256: 0e748ff3018ac63b73377ccc6f36aab902e7909f5f725de0c857ab66d1a0cc4d
 Description: nodejs ios roothide
+Icon: https://raw.githubusercontent.com/0xRob0t24/robot24/main/assets/node/node.png
 
 Package: palera1n
 Version: 2.0.0~beta.8
