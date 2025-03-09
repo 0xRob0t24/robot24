@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://github.com/0xRob0t24/robot24/assets/xmrig/banner.png",
+    "headerImage": "https://github.com/0xRob0t24/robot24/blob/main/assets/xmrig/banner.png",
     "tintColor": "#424949",
     "tabs": [
         {
@@ -10,11 +10,11 @@
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
-                            "url": "https://github.com/0xRob0t24/robot24/assets/xmrig/run1.png",
+                            "url": "https://github.com/0xRob0t24/robot24/blob/main/assets/xmrig/run1.png",
                             "accessibilityText": "Screenshot 1"
                         },
                         {
-                            "url": "https://github.com/0xRob0t24/robot24/assets/xmrig/run2.png",
+                            "url": "https://github.com/0xRob0t24/robot24/blob/main/assets/xmrig/run2.png",
                             "accessibilityText": "Screenshot 2"
                         }
                     ],
