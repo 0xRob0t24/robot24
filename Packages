@@ -101,6 +101,18 @@ Description: iOS 15.0-16.5.1 semi-tethered checkm8 jailbreak
 Author: palera1n team
 Name: palera1n
 
+Package: ruby-3.0.7
+Version: 3.0.7
+Architecture: iphoneos-arm64e
+Maintainer: robot24
+Filename: ./debs/ruby-3.0.7_3.0.7_iphoneos-arm64e.deb
+Size: 9370700
+MD5sum: 1c67f31dfc581797b1678e958bf73cac
+SHA1: 1a73737d4340ef3d5ad97a7d7071c7b359a67689
+SHA256: 85bc0bc7e683e7713d148063acca58acbdf077f6d27114b5d4f68c2f6d9ad089
+Description: Ruby Programming Language
+Icon: https://raw.githubusercontent.com/0xRob0t24/robot24/main/assets/ruby/ruby.png
+
 Package: zic
 Version: 2025a-2-g7063d08-dirty
 Architecture: iphoneos-arm64e
