@@ -72,15 +72,15 @@ SHA256: 0e748ff3018ac63b73377ccc6f36aab902e7909f5f725de0c857ab66d1a0cc4d
 Description: nodejs ios roothide
 Icon: https://raw.githubusercontent.com/0xRob0t24/robot24/main/assets/node/node.png
 
-Package: node
+Package: node-22.14.0
 Version: 22.14.0
 Architecture: iphoneos-arm64e
 Maintainer: robot24
-Filename: ./debs/node_22.14.0_iphoneos-arm64e.deb
-Size: 20517692
-MD5sum: 675c364326734bf11305b2864092b879
-SHA1: c87b4e7392015299b14ce30be4abedbf791adfaa
-SHA256: 3ec1e3263d5f01aafba15d08aa477fda642ab88507cd21ac45baa0c21aab13e2
+Filename: ./debs/node-22.14.0_22.14.0_iphoneos-arm64e.deb
+Size: 20517696
+MD5sum: b664ca7db9bdd611f5cd36a855016c3a
+SHA1: 184553ea28313f9f9e7a02b85d458c4b7d2f9283
+SHA256: 93df91a064b20a397bedde95bbd16b2a25251b3e17e331d3c163102a6700978d
 Description: nodejs ios roothide
 Icon: https://raw.githubusercontent.com/0xRob0t24/robot24/main/assets/node/node.png
 
