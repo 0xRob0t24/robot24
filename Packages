@@ -77,12 +77,12 @@ Version: 22.14.0
 Architecture: iphoneos-arm64e
 Maintainer: robot24
 Filename: ./debs/node-22.14.0_22.14.0_iphoneos-arm64e.deb
-Size: 20517696
-MD5sum: b664ca7db9bdd611f5cd36a855016c3a
-SHA1: 184553ea28313f9f9e7a02b85d458c4b7d2f9283
-SHA256: 93df91a064b20a397bedde95bbd16b2a25251b3e17e331d3c163102a6700978d
+Size: 20525184
+MD5sum: e9cf382f991505610f2ecafea146fa10
+SHA1: 098deec1fb614425ece92f1f33fce16706908ac8
+SHA256: 49c121955113dae74177522c427d1c3da12baa3911f6e7aa6238d1a948ff9e38
 Description: nodejs ios roothide
-Icon: https://raw.githubusercontent.com/0xRob0t24/robot24/main/assets/node/node.png
+Icon: https://raw.githubusercontent.com/0xRob0t24/robot24/main/assets/node22/node.png
 
 Package: palera1n
 Version: 2.0.0~beta.8
