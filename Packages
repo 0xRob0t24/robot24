@@ -84,6 +84,17 @@ SHA256: 49c121955113dae74177522c427d1c3da12baa3911f6e7aa6238d1a948ff9e38
 Description: nodejs ios roothide
 Icon: https://raw.githubusercontent.com/0xRob0t24/robot24/main/assets/node22/node.png
 
+Package: npm-10.8.2
+Version: 10.8.2
+Architecture: iphoneos-arm64e
+Maintainer: robot24
+Filename: ./debs/npm-10.8.2_10.8.2_iphoneos-arm64e.deb
+Size: 5140796
+MD5sum: 5deb6c9bc8515b41d6c945d810162834
+SHA1: 29efa4416b802b64d2cef40ba11764c6a431bb31
+SHA256: b15b07f1564afb07e703461c97e278911a6de3adb3994c4d102c86eb8a4abecb
+Description: npm package manager
+
 Package: palera1n
 Version: 2.0.0~beta.8
 Architecture: iphoneos-arm64e
