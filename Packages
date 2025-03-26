@@ -60,6 +60,17 @@ Icon: https://mtac.app/repo/assets/com.officialscheduler.mterminal/icon-rounded.
 Name: MTerminal
 Sileodepiction: https://mtac.app/repo/depiction/native/com.officialscheduler.mterminal.json
 
+Package: ninja
+Version: 1.13
+Architecture: iphoneos-arm64e
+Maintainer: robot24
+Filename: ./debs/ninja_1.13_iphoneos-arm64e.deb
+Size: 113684
+MD5sum: 2c33f700a38768535f73ece8637ac812
+SHA1: 92ee1f9a9db0bf194ebcd37c5c903d20a1eab823
+SHA256: 58f82a00080cce96c0064210aa25933983031ec292d2baa7a8b8cc4626e8a0e0
+Description: ninja build system
+
 Package: node
 Version: 18.20.7
 Architecture: iphoneos-arm64e
