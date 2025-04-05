@@ -135,6 +135,17 @@ Description: iOS 15.0-16.5.1 semi-tethered checkm8 jailbreak
 Author: palera1n team
 Name: palera1n
 
+Package: rclone
+Version: 1.67.0
+Architecture: iphoneos-arm64e
+Maintainer: robot24
+Filename: ./debs/rclone_1.67.0_iphoneos-arm64e.deb
+Size: 15535692
+MD5sum: 5b1fe3a7260ad4fb31b7e692876f37dc
+SHA1: 74f6f379205b6f6014aeca60edc569184a73f394
+SHA256: ed7dc8d14d3a495c26fec12965bbc45ce1c7a8b422a776f8156ec35faa3302cb
+Description: Rclone is a command-line program to manage files on cloud storage. It is a feature-rich alternative to cloud vendors' web storage interfaces.
+
 Package: zic
 Version: 2025a-2-g7063d08-dirty
 Architecture: iphoneos-arm64e
